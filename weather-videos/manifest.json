@@ -13,12 +13,12 @@
     "light_rain": {
       "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/light_rain.mp4",
       "version": "1.0.0",
-      "size": 1476131
+      "size": 513982
     },
     "rain": {
       "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/rain.mp4",
       "version": "1.0.0",
-      "size": 8418317
+      "size": 2536636
     },
     "thunderstorm": {
       "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/thunderstorm.mp4",
@@ -28,7 +28,7 @@
     "snow": {
       "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/snow.mp4",
       "version": "1.0.0",
-      "size": 2108391
+      "size": 926689
     }
   }
 }
