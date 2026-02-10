@@ -1,32 +1,32 @@
 {
   "videos": {
     "cloudy": {
-      "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/cloudy.mp4",
+      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/cloudy.mp4",
       "version": "1.0.0",
       "size": 456931
     },
     "overcast": {
-      "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/overcast.mp4",
+      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/overcast.mp4",
       "version": "1.0.0",
       "size": 195219
     },
     "light_rain": {
-      "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/light_rain.mp4",
+      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/light_rain.mp4",
       "version": "1.0.0",
       "size": 513982
     },
     "rain": {
-      "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/rain.mp4",
+      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/rain.mp4",
       "version": "1.0.0",
       "size": 2536636
     },
     "thunderstorm": {
-      "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/thunderstorm.mp4",
+      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/thunderstorm.mp4",
       "version": "1.0.0",
       "size": 1478501
     },
     "snow": {
-      "url": "https://raw.githubusercontent.com/SameeHsn/weather-assets/main/weather-videos/snow.mp4",
+      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/snow.mp4",
       "version": "1.0.0",
       "size": 926689
     }
