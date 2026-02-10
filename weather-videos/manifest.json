@@ -1,9 +1,9 @@
 {
   "videos": {
     "cloudy": {
-      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/cloudy.mp4",
-      "version": "1.0.0",
-      "size": 456931
+      "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/cloudsv2.mp4",
+      "version": "1.1.0",
+      "size": 11749181
     },
     "overcast": {
       "url": "https://raw.githubusercontent.com/mawaqit/mobile-assets/main/weather-videos/overcast.mp4",
